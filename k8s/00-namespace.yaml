@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: practica-s12
+  labels:
+    proyecto: practica-s12
+    entorno: aws
